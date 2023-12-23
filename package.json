@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "tailwindcss build input.css -o dist/output.css"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
